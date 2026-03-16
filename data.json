@@ -1,0 +1,187 @@
+{
+  "title": "Your Project Title",
+  "authors": [
+    { "name": "Author 1", "usn": "1BG23CS000" },
+    { "name": "Author 2", "usn": "1BG23CS000" }
+  ],
+  "guide": [
+    {
+      "name": "Mentor/Guide Name",
+      "designation": "Professor",
+      "department": ["CSE", "Computer Science and Engineering"]
+    }
+  ],
+  "year": "2025-26",
+  "semester": [5, "Fifth"],
+  "semester_section": "A",
+  "subject": "Subject Name",
+  "subject_code": "Subject Code",
+  "department": {
+    "name": "Computer Science and Engineering",
+    "abbreviation": "CSE",
+    "hod": "HOD Name"
+  },
+  "abstract": "Write your project abstract here. This should be a concise summary of your project, its objectives, methodology, and key outcomes.",
+  "chapters": {
+    "introduction": {
+      "title": "Introduction",
+      "body": "Write your introduction here.\n\nAdd more paragraphs by separating them with a blank line like this.",
+      "sections": [
+        {
+          "title": "Background",
+          "body": "Provide background information about your project topic here.",
+          "subsections": [
+            {
+              "title": "Problem Statement",
+              "body": "Describe the problem your project aims to solve."
+            }
+          ]
+        },
+        {
+          "title": "Objectives",
+          "body": "List and explain the objectives of your project here.",
+          "subsections": []
+        },
+        {
+          "title": "Scope",
+          "body": "Define the scope and limitations of your project here.",
+          "subsections": []
+        }
+      ]
+    },
+    "literature_survey": {
+      "title": "Literature Survey",
+      "body": "This chapter presents a review of existing literature and prior work related to the project.",
+      "sections": [
+        {
+          "title": "Existing Systems",
+          "body": "Describe existing systems or approaches that are relevant to your project.",
+          "subsections": [
+            {
+              "title": "Comparison of Approaches",
+              "body": "Compare and contrast the different existing approaches here."
+            }
+          ]
+        },
+        {
+          "title": "Research Gap",
+          "body": "Identify the gaps in existing research that your project addresses.",
+          "subsections": []
+        }
+      ]
+    },
+    "system_requirements": {
+      "title": "System Requirements",
+      "body": "This chapter outlines the hardware and software requirements needed to develop and run the project.",
+      "sections": [
+        {
+          "title": "Hardware Requirements",
+          "body": "List the hardware requirements here.\n\nFor example: processor speed, RAM, storage, etc.",
+          "subsections": []
+        },
+        {
+          "title": "Software Requirements",
+          "body": "List the software requirements here.\n\nFor example: operating system, frameworks, libraries, tools, etc.",
+          "subsections": []
+        },
+        {
+          "title": "Functional Requirements",
+          "body": "Describe the functional requirements of the system here.",
+          "subsections": [
+            {
+              "title": "User Requirements",
+              "body": "Describe what the end user expects from the system."
+            }
+          ]
+        },
+        {
+          "title": "Non-Functional Requirements",
+          "body": "Describe non-functional requirements such as performance, scalability, and security.",
+          "subsections": []
+        }
+      ]
+    },
+    "methodology": {
+      "title": "Methodology & Implementation",
+      "body": "This chapter describes the methodology adopted and the implementation details of the project.",
+      "sections": [
+        {
+          "title": "System Architecture",
+          "body": "Describe the overall architecture of your system here.",
+          "subsections": [
+            {
+              "title": "Architecture Diagram",
+              "body": "Explain the architecture diagram and its components."
+            }
+          ]
+        },
+        {
+          "title": "Implementation",
+          "body": "Describe the implementation steps and key code modules here.",
+          "subsections": [
+            {
+              "title": "Module 1",
+              "body": "Explain the first module of your implementation."
+            },
+            {
+              "title": "Module 2",
+              "body": "Explain the second module of your implementation."
+            }
+          ]
+        },
+        {
+          "title": "Tools and Technologies Used",
+          "body": "List and briefly describe the tools and technologies used in the project.",
+          "subsections": []
+        }
+      ]
+    },
+    "results": {
+      "title": "Result & Discussion",
+      "body": "This chapter presents the results obtained from the project and discusses their significance.",
+      "sections": [
+        {
+          "title": "Results",
+          "body": "Present your results here, including any screenshots, outputs, or data.",
+          "subsections": [
+            {
+              "title": "Output Screenshots",
+              "body": "Describe and include screenshots of your project output here."
+            }
+          ]
+        },
+        {
+          "title": "Discussion",
+          "body": "Discuss the results, what they mean, and how they relate to your objectives.",
+          "subsections": []
+        },
+        {
+          "title": "Performance Evaluation",
+          "body": "Evaluate the performance of your system with relevant metrics.",
+          "subsections": []
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "body": "This chapter summarizes the work done and suggests directions for future work.",
+      "sections": [
+        {
+          "title": "Summary",
+          "body": "Provide a summary of the project, highlighting key contributions and outcomes.",
+          "subsections": []
+        },
+        {
+          "title": "Future Work",
+          "body": "Suggest possible enhancements and future directions for the project.",
+          "subsections": []
+        },
+        {
+          "title": "Conclusion",
+          "body": "Write your concluding remarks here.",
+          "subsections": []
+        }
+      ]
+    }
+  }
+}
