@@ -19,5 +19,5 @@
     leading: leading,
   )
 
-  bibliography("../citations.yaml", title: none)
+  bibliography("../citations.yaml", title: none, full: true)
 }

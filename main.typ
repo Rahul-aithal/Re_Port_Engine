@@ -58,4 +58,4 @@
 // ====== References ======
 
 // Refer: https://github.com/typst/hayagriva/blob/main/docs/file-format.md
-#show: back_matter()
+#show:back_matter()

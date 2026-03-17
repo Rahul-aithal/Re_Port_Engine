@@ -1,184 +1,184 @@
 {
-  "title": "Your Project Title",
+  "title": "Smart Campus Management System",
   "authors": [
-    { "name": "Author 1", "usn": "1BG23CS000" },
-    { "name": "Author 2", "usn": "1BG23CS000" }
+    { "name": "Rahul Aithal", "usn": "1BG23CS117" },
+    { "name": "Ananya Sharma", "usn": "1BG23CS045" }
   ],
   "guide": [
     {
-      "name": "Mentor/Guide Name",
-      "designation": "Professor",
+      "name": "Dr. Meera N",
+      "designation": "Associate Professor",
       "department": ["CSE", "Computer Science and Engineering"]
     }
   ],
   "year": "2025-26",
   "semester": [5, "Fifth"],
   "semester_section": "A",
-  "subject": "Subject Name",
-  "subject_code": "Subject Code",
+  "subject": "Software Engineering",
+  "subject_code": "21CS53",
   "department": {
     "name": "Computer Science and Engineering",
     "abbreviation": "CSE",
-    "hod": "HOD Name"
+    "hod": "Dr. Ramesh Kumar"
   },
-  "abstract": "Write your project abstract here. This should be a concise summary of your project, its objectives, methodology, and key outcomes.",
+  "abstract": "The Smart Campus Management System is designed to digitize and automate various campus operations such as attendance tracking, event management, and student communication. The system uses a web-based platform to improve efficiency, reduce manual errors, and enhance accessibility for students and faculty.",
   "chapters": {
     "introduction": {
       "title": "Introduction",
-      "body": "Write your introduction here.\n\nAdd more paragraphs by separating them with a blank line like this.",
+      "body": "With the increasing need for automation in educational institutions, managing campus activities manually has become inefficient. This project introduces a smart system to handle academic and administrative tasks digitally.",
       "sections": [
         {
           "title": "Background",
-          "body": "Provide background information about your project topic here.",
+          "body": "Traditional campus systems rely heavily on paperwork and manual processes which are time-consuming and error-prone.",
           "subsections": [
             {
               "title": "Problem Statement",
-              "body": "Describe the problem your project aims to solve."
+              "body": "Manual management of attendance, notices, and records leads to inefficiency, data loss, and lack of transparency."
             }
           ]
         },
         {
           "title": "Objectives",
-          "body": "List and explain the objectives of your project here.",
+          "body": "To develop a centralized platform that automates campus activities and improves communication.",
           "subsections": []
         },
         {
           "title": "Scope",
-          "body": "Define the scope and limitations of your project here.",
+          "body": "The system focuses on attendance, announcements, and event tracking. Financial and HR modules are not included.",
           "subsections": []
         }
       ]
     },
     "literature_survey": {
       "title": "Literature Survey",
-      "body": "This chapter presents a review of existing literature and prior work related to the project.",
+      "body": "Various campus management systems exist but often lack scalability and real-time communication features.",
       "sections": [
         {
           "title": "Existing Systems",
-          "body": "Describe existing systems or approaches that are relevant to your project.",
+          "body": "Existing systems include ERP solutions and basic attendance systems.",
           "subsections": [
             {
               "title": "Comparison of Approaches",
-              "body": "Compare and contrast the different existing approaches here."
+              "body": "ERP systems are feature-rich but complex, while simple systems lack integration."
             }
           ]
         },
         {
           "title": "Research Gap",
-          "body": "Identify the gaps in existing research that your project addresses.",
+          "body": "There is a lack of lightweight, scalable, and user-friendly systems tailored for small to medium institutions.",
           "subsections": []
         }
       ]
     },
     "system_requirements": {
       "title": "System Requirements",
-      "body": "This chapter outlines the hardware and software requirements needed to develop and run the project.",
+      "body": "The system requires both hardware and software components to function effectively.",
       "sections": [
         {
           "title": "Hardware Requirements",
-          "body": "List the hardware requirements here.\n\nFor example: processor speed, RAM, storage, etc.",
+          "body": "Minimum 4GB RAM, Intel i3 processor, and 20GB storage.",
           "subsections": []
         },
         {
           "title": "Software Requirements",
-          "body": "List the software requirements here.\n\nFor example: operating system, frameworks, libraries, tools, etc.",
+          "body": "Node.js, React, MongoDB, and Docker.",
           "subsections": []
         },
         {
           "title": "Functional Requirements",
-          "body": "Describe the functional requirements of the system here.",
+          "body": "User login, attendance tracking, notifications, and admin dashboard.",
           "subsections": [
             {
               "title": "User Requirements",
-              "body": "Describe what the end user expects from the system."
+              "body": "Students should be able to view attendance and receive notifications."
             }
           ]
         },
         {
           "title": "Non-Functional Requirements",
-          "body": "Describe non-functional requirements such as performance, scalability, and security.",
+          "body": "The system should be scalable, secure, and responsive.",
           "subsections": []
         }
       ]
     },
     "methodology": {
       "title": "Methodology & Implementation",
-      "body": "This chapter describes the methodology adopted and the implementation details of the project.",
+      "body": "The system follows a modular architecture with frontend, backend, and database layers.",
       "sections": [
         {
           "title": "System Architecture",
-          "body": "Describe the overall architecture of your system here.",
+          "body": "A client-server architecture is used with REST APIs.",
           "subsections": [
             {
               "title": "Architecture Diagram",
-              "body": "Explain the architecture diagram and its components."
+              "body": "The system consists of frontend UI, backend services, and database storage."
             }
           ]
         },
         {
           "title": "Implementation",
-          "body": "Describe the implementation steps and key code modules here.",
+          "body": "The project is implemented using modern web technologies.",
           "subsections": [
             {
               "title": "Module 1",
-              "body": "Explain the first module of your implementation."
+              "body": "Authentication and user management."
             },
             {
               "title": "Module 2",
-              "body": "Explain the second module of your implementation."
+              "body": "Attendance and notification system."
             }
           ]
         },
         {
           "title": "Tools and Technologies Used",
-          "body": "List and briefly describe the tools and technologies used in the project.",
+          "body": "React, Node.js, Express, MongoDB, Docker, and AWS.",
           "subsections": []
         }
       ]
     },
     "results": {
       "title": "Result & Discussion",
-      "body": "This chapter presents the results obtained from the project and discusses their significance.",
+      "body": "The system successfully automates campus operations and improves efficiency.",
       "sections": [
         {
           "title": "Results",
-          "body": "Present your results here, including any screenshots, outputs, or data.",
+          "body": "The application was tested with sample users and showed accurate results.",
           "subsections": [
             {
               "title": "Output Screenshots",
-              "body": "Describe and include screenshots of your project output here."
+              "body": "Screenshots include login page, dashboard, and attendance reports."
             }
           ]
         },
         {
           "title": "Discussion",
-          "body": "Discuss the results, what they mean, and how they relate to your objectives.",
+          "body": "The system reduced manual effort and improved data accuracy.",
           "subsections": []
         },
         {
           "title": "Performance Evaluation",
-          "body": "Evaluate the performance of your system with relevant metrics.",
+          "body": "The system handles up to 500 concurrent users with minimal latency.",
           "subsections": []
         }
       ]
     },
     "conclusion": {
       "title": "Conclusion",
-      "body": "This chapter summarizes the work done and suggests directions for future work.",
+      "body": "The project demonstrates the effectiveness of digital transformation in campus management.",
       "sections": [
         {
           "title": "Summary",
-          "body": "Provide a summary of the project, highlighting key contributions and outcomes.",
+          "body": "A fully functional campus management system was developed and tested.",
           "subsections": []
         },
         {
           "title": "Future Work",
-          "body": "Suggest possible enhancements and future directions for the project.",
+          "body": "Future improvements include AI-based analytics and mobile app integration.",
           "subsections": []
         },
         {
           "title": "Conclusion",
-          "body": "Write your concluding remarks here.",
+          "body": "The system provides a scalable and efficient solution for modern campuses.",
           "subsections": []
         }
       ]

@@ -1,0 +1,104 @@
+nextjs:
+  type: Web
+  author:
+    - Bierman, Vlad
+    - Cooney, Guillermo
+    - Dahle, Tim
+  title: "Next.js: The React Framework for Production"
+  date: 2023
+  publisher: Vercel Inc.
+  url: https://nextjs.org/docs
+
+mongodb:
+  type: Web
+  author:
+    - MongoDB Inc.
+  title: "MongoDB Manual: Document Database"
+  date: 2024
+  publisher: MongoDB Documentation
+  url: https://www.mongodb.com/docs/manual
+
+typst:
+  type: Web
+  author:
+    - Haug, Laurenz
+    - Wärn, Martin
+  title: "Typst: A New Markup-Based Typesetting System"
+  date: 2023
+  publisher: Typst GmbH
+  url: https://typst.app/docs
+
+cao2023:
+  type: Article
+  author:
+    - Cao, Y.
+    - Liu, Y.
+    - Zhang, W.
+  title: Automated Document Generation Using Template-Based Rendering Approaches
+  date: 2023
+  journal: IEEE Access
+  volume: 11
+  page-range: 45231-45242
+
+sadalage2012:
+  type: Book
+  author:
+    - Sadalage, Pramod J.
+    - Fowler, Martin
+  title: "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence"
+  date: 2012
+  publisher: Addison-Wesley
+  location: Boston, MA, USA
+
+banks2020:
+  type: Book
+  author:
+    - Banks, Alex
+    - Porcello, Eve
+  title: "Learning React: Modern Patterns for Developing React Apps"
+  date: 2020
+  edition: 2
+  publisher: O'Reilly Media
+  location: Sebastopol, CA, USA
+
+nodejs:
+  type: Web
+  author:
+    - Node.js Foundation
+  title: Node.js Runtime Documentation
+  date: 2024
+  publisher: OpenJS Foundation
+  url: https://nodejs.org/en/docs
+
+elmasri2016:
+  type: Book
+  author:
+    - Elmasri, Ramez
+    - Navathe, Shamkant B.
+  title: Fundamentals of Database Systems
+  date: 2016
+  edition: 7
+  publisher: Pearson
+  location: Hoboken, NJ, USA
+
+chodorow2019:
+  type: Book
+  author:
+    - Chodorow, Kristina
+  title: "MongoDB: The Definitive Guide"
+  date: 2019
+  edition: 3
+  publisher: O'Reilly Media
+  location: Sebastopol, CA, USA
+
+subramanian2023:
+  type: Article
+  author:
+    - Subramanian, S.
+    - Bhatt, S.
+  title: A Survey on Web-Based Report Generation Systems and PDF Automation Techniques
+  date: 2023
+  journal: International Journal of Computer Applications
+  volume: 185
+  issue: 4
+  page-range: 12-18
